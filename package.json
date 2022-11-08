@@ -9,10 +9,24 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@openspacelabs/react-native-zoomable-view": "^2.1.1",
+    "@shopify/react-native-skia": "0.1.141",
+    "buffer": "^5.7.1",
+    "deprecated-react-native-prop-types": "^2.3.0",
     "expo": "~46.0.16",
+    "expo-gl": "^11.4.0",
+    "expo-image-picker": "~13.3.1",
+    "expo-media-library": "~14.2.0",
     "expo-status-bar": "~1.4.0",
+    "gl-react": "^4.1.0",
+    "gl-react-expo": "^4.1.0",
+    "patch-package": "^6.5.0",
     "react": "18.0.0",
-    "react-native": "0.69.6"
+    "react-native": "0.69.6",
+    "react-native-color-matrix-image-filters": "^6.0.1",
+    "react-native-gl-image-filters": "^0.5.0",
+    "expo-camera": "~12.3.0",
+    "expo-image-manipulator": "~10.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
